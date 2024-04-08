@@ -33,4 +33,3 @@ Character and animations:
 - https://www.mixamo.com/#/
 
 
-**I will add the codes as soon as possible!**
